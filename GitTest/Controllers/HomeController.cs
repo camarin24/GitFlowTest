@@ -18,6 +18,7 @@ namespace GitTest.Controllers
             ViewBag.Message = "Your application description page.";
             //Esto es un cambio en develop
             //Esto es un cambio del feature
+            //Ajustes del release
             return View();
         }
 
